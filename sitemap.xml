@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+
+  <!-- Главная -->
+  <url>
+    <loc>https://example.com</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Зарубежные туры -->
+  <url>
+    <loc>https://example.comtours/international</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Туры по России -->
+  <url>
+    <loc>https://example.comtours/russia</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Направления путешествий -->
+  <url>
+    <loc>https://example.comdestinations</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Условия бронирования -->
+  <url>
+    <loc>https://example.combooking-terms</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Контакты -->
+  <url>
+    <loc>https://example.comcontacts</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
